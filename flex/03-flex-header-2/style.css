@@ -22,10 +22,12 @@ body {
 
 #right-header {
   display: flex;
+  gap: 20px;
 }
 
 .links {
   display:flex;
+  gap: 20px;
 }
 
 .profile-image {
