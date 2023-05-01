@@ -27,9 +27,9 @@ img {
   background: #eee;
 }
 
-/*.set-plants {
+.set-plants {
   gap: 52px;
-}*/
+}
 
 .set-plants, .plant-item {
   display: flex;
