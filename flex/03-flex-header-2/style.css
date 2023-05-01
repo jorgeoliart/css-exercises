@@ -17,6 +17,7 @@ body {
 
 #left-header {
   display: flex;
+  margin-right: auto;
 }
 
 #right-header {
