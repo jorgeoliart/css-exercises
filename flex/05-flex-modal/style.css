@@ -79,3 +79,7 @@ button.cancel {
   font-weight: bold;
 }
 
+.button-set {
+  display: flex;
+}
+
