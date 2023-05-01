@@ -73,5 +73,7 @@ button.cancel {
 
 .header {
   margin-right: auto;
+  font-size: 1.25rem;
+  font-weight: bold;
 }
 
