@@ -66,3 +66,11 @@ button.cancel {
   color: royalblue;
 }
 
+.full-header {
+  display: flex;
+}
+
+.header {
+  margin-right: auto;
+}
+
