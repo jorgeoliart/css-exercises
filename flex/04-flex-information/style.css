@@ -24,3 +24,7 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.set-plants, #barberry, #chili, #pepper, #saffron {
+  display: flex;
+}
