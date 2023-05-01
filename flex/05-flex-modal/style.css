@@ -81,6 +81,7 @@ button.cancel {
 
 .button-set {
   display: flex;
+  gap: 5px;
 }
 
 .modal-main {
