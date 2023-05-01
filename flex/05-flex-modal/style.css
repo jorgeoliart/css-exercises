@@ -83,3 +83,9 @@ button.cancel {
   display: flex;
 }
 
+.modal-main {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
