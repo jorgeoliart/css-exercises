@@ -23,6 +23,7 @@ body {
 #right-header {
   display: flex;
   gap: 20px;
+  align-items: center;
 }
 
 .links {
