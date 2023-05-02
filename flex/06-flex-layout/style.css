@@ -65,3 +65,7 @@ ul a {
   flex-direction: column;
   align-items: center;
 }
+
+.buttons button {
+  padding: 10px 15px;
+}
