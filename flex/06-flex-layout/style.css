@@ -42,3 +42,7 @@ ul a {
 .left-links {
   margin-right: auto;
 }
+
+.left-links, .right-links {
+  gap: 10px;
+}
