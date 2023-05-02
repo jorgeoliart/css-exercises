@@ -50,6 +50,10 @@ ul a {
   gap: 10px;
 }
 
+.header, .footer {
+  padding: 0 16px;
+}
+
 .footer {
   margin-top: auto;
 }
