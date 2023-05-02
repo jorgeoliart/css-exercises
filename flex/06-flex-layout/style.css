@@ -61,4 +61,6 @@ ul a {
 .content {
   margin-top: auto;
   margin-bottom: auto;
+  display: flex;
+  flex-direction: column;
 }
