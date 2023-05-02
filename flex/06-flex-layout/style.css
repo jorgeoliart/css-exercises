@@ -38,3 +38,7 @@ ul a {
 .header, .footer, .left-links, .right-links {
   display: flex;
 }
+
+.left-links {
+  margin-right: auto;
+}
