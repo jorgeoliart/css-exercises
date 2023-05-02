@@ -38,7 +38,7 @@ ul a {
   color: #424242;
 }
 
-.header, .footer, .left-links, .right-links {
+.header, .footer, .left-links, .right-links, .buttons {
   display: flex;
 }
 
@@ -59,7 +59,6 @@ ul a {
 }
 
 .content {
-  background-color: red;
   margin-top: auto;
   margin-bottom: auto;
 }
