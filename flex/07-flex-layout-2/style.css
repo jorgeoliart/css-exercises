@@ -66,5 +66,6 @@ body {
 }
 
 .set-cards .card {
-  flex: 1 1 250px;
+  flex: 0 1 335px;
+  padding: 20px;
 }
