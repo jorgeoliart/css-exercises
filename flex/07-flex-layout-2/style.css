@@ -60,6 +60,10 @@ body {
 
 .set-cards {
   padding: 32px;
-  /*display: flex;
-  flex-wrap: wrap;*/
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.set-cards .card {
+  flex: 1 1 250px;
 }
