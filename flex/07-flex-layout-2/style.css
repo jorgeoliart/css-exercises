@@ -58,6 +58,7 @@ body {
 }
 
 .set-cards {
+  padding: 32px;
   /*display: flex;
   flex-wrap: wrap;*/
 }
