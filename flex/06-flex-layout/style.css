@@ -69,3 +69,7 @@ ul a {
 .buttons button {
   padding: 10px 15px;
 }
+
+.buttons {
+  gap: 5px;
+}
